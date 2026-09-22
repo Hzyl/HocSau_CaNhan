@@ -1,4 +1,4 @@
-# CSharp_CaNhanThayTai
+# Học Sâu thầy Tài
 + Đánh giá môn học:
    * Thi cuối kỳ: 50% (thi tự luận được dùng tài liệu)
    -------
